@@ -5,7 +5,7 @@ const config = {
   name: 'ExchangePartsDbAtlas',
   connector: 'mongodb',
   url:
-    'mongodb+srv://exchangeParts:ts5U7Qt40c4bYXCl@cluster0.hckvr.mongodb.net/exchangePartsDbAtlas?retryWrites=true&w=majority',
+    '',
   host: '',
   port: 0,
   user: 'exchangeParts',
